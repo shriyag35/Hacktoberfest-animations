@@ -154,6 +154,7 @@ window.animations = [
 	{ name: 'neonplus', author: 'AdrianoBiolchi' },
 	{ name: 'neumorphism-animation', author: 'kalpanaT-05' },
 	{ name: 'new-page', author: 'nerdomancer' },
+  { name: 'ombreHacktober', author: 'shriyag35'},
 	{ name: 'opacity-by-gabrielamattias', author: 'GabrielaMattias' },
 	{ name: 'orangeisthenewblack', author: 'kevinhuddy' },
 	{ name: 'ping', author: 'Tatvam' },
